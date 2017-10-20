@@ -40,9 +40,9 @@ rng(1);                 % fix random generator
 Atilde = [0.9  0.2; -0.1  0.9]; % dynamics
 Btilde = [0.1; 0.01];   % actuation matrix
 
-for B_choice = 1:3      % 1-sub, 2-randn or 3-nonsub
+for B_choice = 1     % 1-sub, 2-randn or 3-nonsub
     
-    for CType = 1:3     % 1-unifrom, 2-gaussian 3-single pixel
+    for CType = 1    % 1-unifrom, 2-gaussian 3-single pixel
     % get two-dimensional system
     xtilde = [0.25; 0.25];   % initial condition
     Upsilon = zeros(1, nt);

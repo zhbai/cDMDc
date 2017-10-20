@@ -4,7 +4,7 @@ function [Lambda, Phi, W] = func_DMD(X1, X2, r)
 % Copyright 2017, All Rights Reserved
 % Code by Zhe Bai
 % For Paper: "Dynamic mode decomposition for compressive system identification"
-% by Z. Bai, E, Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
+% by Z. Bai, E. Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
 % Reference: J. H. Tu, C. W. Rowley, D. M. Luchtenburg, S. L. Brunton, and J. N. Kutz. ?On dynamic mode
 % decomposition: Theory and applications?. Journal of Computational Dynamics 1.2 (2014), pp. 391?421.
 

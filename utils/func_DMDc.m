@@ -4,7 +4,7 @@ function [Lambda, Phi, Bhat, W, Uhat, Utilde1, Utilde2, Stilde, Vtilde, zeroInd]
 % Copyright 2017, All Rights Reserved
 % Code by Zhe Bai
 % For Paper: "Dynamic mode decomposition for compressive system identification"
-% by Z. Bai, E, Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
+% by Z. Bai, E. Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
 % Reference: J. L. Proctor, S. L. Brunton, and J. N. Kutz. ?Dynamic Mode Decomposition
 % with Control?. SIAM J. Applied Dynamical Systems 15.1 (2016), pp. 142?161.
 

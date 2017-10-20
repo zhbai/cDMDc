@@ -5,7 +5,7 @@ function [W_out,Lambda_out,zeroInd] = checkModes(W_in,D_in)
 % Copyright 2017, All Rights Reserved
 % Code by Zhe Bai
 % For Paper, "Dynamic mode decomposition for compressive system identification"
-% by Z. Bai, E, Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
+% by Z. Bai, E. Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
 
 %%%%***************************************************************
 

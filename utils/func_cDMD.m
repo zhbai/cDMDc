@@ -5,7 +5,7 @@ function [Lambda, Phi, W] = func_cDMD(Y1, Y2, C, r, X1, X2, compression, Psi)
 % Copyright 2017, All Rights Reserved
 % Code by Zhe Bai
 % For Paper: "Dynamic mode decomposition for compressive system identification"
-% by Z. Bai, E, Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
+% by Z. Bai, E. Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
 % Reference: S. L. Brunton, J. L. Proctor, J. H. Tu, and J. N. Kutz. ?Compressed sensing and
 % dynamic mode decomposition?. Journal of Computa- tional Dynamics 2.2 (2015), pp. 165?191.
 

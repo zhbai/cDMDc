@@ -5,7 +5,7 @@ function [Lambda, Phi, Bhat] = func_cDMDc(Y1, Y2, C, Upsilon, r, rtilde, X1, X2,
 % Copyright 2017, All Rights Reserved
 % Code by Zhe Bai
 % For Paper, "Dynamic mode decomposition for compressive system identification"
-% by Z. Bai, E, Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
+% by Z. Bai, E. Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
 
 % Input:
 %     measurement matrix Y1, Y2 (shifted),

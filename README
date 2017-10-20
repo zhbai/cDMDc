@@ -16,4 +16,6 @@ The algorithms are in the “utils” directory:
 	turn_sign  -   regulate the DMD modes for plots and error report.
 	cosamp 	   -   iterative signal recovery from incomplete and inaccurate samples" by Deanna Needell and Joel Tropp.
 	
-Code to generate the model, figures, and output error for the example of “stochastically forced linear system” is in matlab file “EX01_SFLS” in the main directory.
+Code to generate the model, figures, and output error for the example of “stochastically forced linear system” is in .m file “EXAMPLE” in the main directory. (Example 4.1 in the paper)
+    - Reconstruction errors are reported in ./output/
+    - Figures are generated in ./figures/

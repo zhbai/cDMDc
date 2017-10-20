@@ -1,0 +1,19 @@
+Compressive DMDc (cDMDc)
+
+Copyright 2017, All Rights Reserved
+Code by Zhe Bai
+For Paper, "Dynamic mode decomposition for compressive system identification"
+by Z. Bai, E, Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton.
+
+The algorithms are in the “utils” directory:
+	
+	func_DMD   —  (paper) Algorithm 1 Exact DMD.
+	func_DMDc  -  (paper) Algorithm 2 DMD with control.
+	func_cDMD  -  (paper) Algorithm 3 Compressive DMD.	
+	func_cDMDc -  (paper) Algorithm 4 Compressive DMD with control.
+	checkModes -  reorder the modes and return the index of the mode with zero eigenvalues.
+	normalize  -   normalize the DMD modes for calibration.
+	turn_sign  -   regulate the DMD modes for plots and error report.
+	cosamp 	   -   iterative signal recovery from incomplete and inaccurate samples" by Deanna Needell and Joel Tropp.
+	
+Code to generate the model, figures, and output error for the example of “stochastically forced linear system” is in matlab file “EX01_SFLS” in the main directory.

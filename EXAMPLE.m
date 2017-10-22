@@ -15,13 +15,13 @@
 % Measurement matrix C: 
 % 1. uniform distribution; 
 % 2. gaussian distribution;
-% 3. single pixel measurement
+% 3. single pixel measurement.
 
 % Four cases tested:
-% 1. X known, B known
-% 2. X known, B unknown
-% 3. X unknown, B known
-% 4. X unknown, B unknown
+% 1. X known, B known;
+% 2. X known, B unknown;
+% 3. X unknown, B known;
+% 4. X unknown, B unknown.
 
 %%%%***************************************************************
 

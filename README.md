@@ -38,7 +38,10 @@ See the [LICENSE file](LICENSE) for details.
 
 ## References
 
-[1] Zhe Bai, Eurika Kaiser, Joshua L. Proctor, J. Nathan Kutz, and Steven L. Brunton. arXiv Preprint, 2017.__
-[2] J. L. Proctor, S. L. Brunton, and J. N. Kutz. Dynamic mode decomposition with control. SIAM J. Applied Dynamical Systems, 15(1):142–161, 2016.__
-[3] Steven L. Brunton, Joshua L. Proctor, Jonathan H. Tu, and J. Nathan Kutz. Compressed sensing and dynamic mode decomposition. Journal of Computational Dynamics, 2(2):165–191, 2015.__
+[1] Zhe Bai, Eurika Kaiser, Joshua L. Proctor, J. Nathan Kutz, and Steven L. Brunton. arXiv Preprint, 2017.
+
+[2] J. L. Proctor, S. L. Brunton, and J. N. Kutz. Dynamic mode decomposition with control. SIAM J. Applied Dynamical Systems, 15(1):142–161, 2016.
+
+[3] Steven L. Brunton, Joshua L. Proctor, Jonathan H. Tu, and J. Nathan Kutz. Compressed sensing and dynamic mode decomposition. Journal of Computational Dynamics, 2(2):165–191, 2015.
+
 [4] D. Needell and J. A. Tropp. CoSaMP: iterative signal recovery from incomplete and inaccurate samples. Communications of the ACM, 53(12):93–100, 2010.
